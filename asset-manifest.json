@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://garnold-uo.github.io/csb-9qndns/static/css/main.73710c21.chunk.css",
+    "main.js": "https://garnold-uo.github.io/csb-9qndns/static/js/main.e9790781.chunk.js",
+    "main.js.map": "https://garnold-uo.github.io/csb-9qndns/static/js/main.e9790781.chunk.js.map",
+    "runtime-main.js": "https://garnold-uo.github.io/csb-9qndns/static/js/runtime-main.f6173876.js",
+    "runtime-main.js.map": "https://garnold-uo.github.io/csb-9qndns/static/js/runtime-main.f6173876.js.map",
+    "static/js/2.9bbebe9c.chunk.js": "https://garnold-uo.github.io/csb-9qndns/static/js/2.9bbebe9c.chunk.js",
+    "static/js/2.9bbebe9c.chunk.js.map": "https://garnold-uo.github.io/csb-9qndns/static/js/2.9bbebe9c.chunk.js.map",
+    "index.html": "https://garnold-uo.github.io/csb-9qndns/index.html",
+    "static/css/main.73710c21.chunk.css.map": "https://garnold-uo.github.io/csb-9qndns/static/css/main.73710c21.chunk.css.map",
+    "static/js/2.9bbebe9c.chunk.js.LICENSE.txt": "https://garnold-uo.github.io/csb-9qndns/static/js/2.9bbebe9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6173876.js",
+    "static/js/2.9bbebe9c.chunk.js",
+    "static/css/main.73710c21.chunk.css",
+    "static/js/main.e9790781.chunk.js"
+  ]
+}
